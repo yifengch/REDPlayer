@@ -1,0 +1,9 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "@rte-xhs/redplayer",
+  "version": "1.0.0",
+  "description": "REDplayer",
+  "main": "",
+  "author": "Red",
+  "license": "LGPL v2.1"
+}

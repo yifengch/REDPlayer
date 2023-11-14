@@ -1,0 +1,11 @@
+{
+  "name": "@rte-xhs/redplayer",
+  "version": "1.0.0",
+  "description": "REDplayer",
+  "main": "index.ets",
+  "author": "Red",
+  "license": "LGPL v2.1",
+  "dependencies": {
+    "libredplayer.so": "file:./src/main/cpp/types/libredplayer"
+  }
+}
